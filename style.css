@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+#home{
+    background-color: cyan;
+    width: 100%;
+    height: 100%
+}
+#contact{
+    background-color: darkturquoise;
+    width: 100%;
+    height: 100%;
+}
+#fleets{
+    text-align: center;
+}
+#eq{
+    text-align:left;
+}
+#features{
+    background-color: fuchsia;
+    width: 100%;
+    height: 100%;
+}
